@@ -51,7 +51,7 @@ public class OuthFb {
 			final String GRANT_TYPE = "authorization_code";
 			final String REDIRECT_URI = "http://localhost:8080/oauth1";
 			final String CLIENT_ID = "326846368586443";
-			final String CLIENT_SECRET = "8528bb7211e4874f094de59f451860a5";
+			final String CLIENT_SECRET = "****";
 
 			// Generate POST request
 			HttpPost httpPost = new HttpPost(
