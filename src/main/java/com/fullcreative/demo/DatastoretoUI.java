@@ -106,7 +106,7 @@ public class DatastoretoUI {
 		final String GRANT_TYPE = "refresh_token";
 		final String REFRESH_TOKEN = refreshToken;
 		final String CLIENT_ID = "628485492305-clc02nguilt3cn9aimatqolcgd8ivc7c.apps.googleusercontent.com";
-		final String CLIENT_SECRET = "gjUVkVctpjwXNtvvBq13QUYP";
+		final String CLIENT_SECRET = "****";
 
 		// System.out.println(authorizationCode);
 
