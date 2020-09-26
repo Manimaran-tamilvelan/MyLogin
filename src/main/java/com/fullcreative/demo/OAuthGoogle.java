@@ -56,7 +56,7 @@ public class OAuthGoogle extends HttpServlet {
 			final String GRANT_TYPE = "authorization_code";
 			final String REDIRECT_URI = "http://localhost:8080/oauth";
 			final String CLIENT_ID = "628485492305-clc02nguilt3cn9aimatqolcgd8ivc7c.apps.googleusercontent.com";
-			final String CLIENT_SECRET = "gjUVkVctpjwXNtvvBq13QUYP";
+			final String CLIENT_SECRET = "****";
 
 			// System.out.println(authorizationCode);
 
